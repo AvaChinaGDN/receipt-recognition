@@ -5,7 +5,7 @@ Note:
 
 ML/Data Prep (Python):
 ----------------------
-1. ORC.py contains code for converting unstructured image data into structured text data, which is then used to build a predictive model. The code is then adatped so that it can be hosted within Azure ML's Python Module and make the modelling process self-contained within Azure ML Studio. 
+1. ORC.py contains code for converting unstructured image data into structured text data, which is then used to build a predictive model. The code is then adapted so that it can be hosted within Azure ML's Python Module and make the modelling process self-contained within Azure ML Studio. 
 
 2. This model is trained on ~1100 imaged American receipts for categories: Dining, snack, clothes, feul, groceries, entertainment
 
